@@ -32,3 +32,8 @@ Adafruit board	e.g., Adafruit Trinket M0 / QT Py / ItsyBitsy
 CircuitPython	Latest version installed
 adafruit_hid library	Must be copied to CIRCUITPY/lib/
 USB cable	For power + HID
+
+## Usefull Repos
+### Official hak5 repo: https://github.com/hak5/usbrubberducky-payloads
+### Adafruit HID Docs: https://docs.circuitpython.org/projects/hid/en/latest/
+### CircuitPython Guide: https://learn.adafruit.com/
