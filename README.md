@@ -37,3 +37,4 @@ USB cable	For power + HID
 ### Official hak5 repo: https://github.com/hak5/usbrubberducky-payloads
 ### Adafruit HID Docs: https://docs.circuitpython.org/projects/hid/en/latest/
 ### CircuitPython Guide: https://learn.adafruit.com/
+### Keyboard Layouts: https://github.com/Neradoc/Circuitpython_Keyboard_Layouts/blob/main/PICODUCKY.md
